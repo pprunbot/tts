@@ -1,0 +1,11 @@
+fugashi
+librosa
+mojimoji
+munch
+phonemizer
+pypdf
+scipy
+torch
+transformers
+unicodedata2
+unidic-lite
