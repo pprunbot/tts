@@ -139,7 +139,7 @@ phonemizers = dict(
 # Starred voices are more stable
 CHOICES = {
 '🇺🇸 🚺 American Female ⭐': 'af',
-'🇺🇸 🚺 Bella ⭐': 'af_bella',
+'🇺🇸 🚺 Bela ⭐': 'af_bella',
 '🇺🇸 🚺 Nicole ⭐': 'af_nicole',
 '🇺🇸 🚺 Sarah ⭐': 'af_sarah',
 '🇺🇸 🚺 American Female 1': 'af_1',
