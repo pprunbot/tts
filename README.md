@@ -11,3 +11,13 @@ git clone https://github.com/pprunbot/tts.git
 cd tts
 
 
+### 2. Install dependencies
+
+It’s recommended to use a virtual environment (optional)
+
+# Create a virtual environment (optional)
+python3 -m venv venv
+source venv/bin/activate    # On Windows: venv\Scripts\activate
+
+# Install dependencies
+pip install -r requirements.txt
