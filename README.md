@@ -9,5 +9,3 @@ A lightweight and easy-to-use Text-to-Speech (TTS) engine written in Python. Per
 ```bash
 git clone https://github.com/pprunbot/tts.git
 cd tts
-
-
