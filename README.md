@@ -10,19 +10,4 @@ A lightweight and easy-to-use Text-to-Speech (TTS) engine written in Python. Per
 git clone https://github.com/pprunbot/tts.git
 cd tts
 
-# Create a virtual environment (optional)
-python3 -m venv venv
-source venv/bin/activate    # On Windows: venv\Scripts\activate
-
-# Install dependencies
-pip install -r requirements.txt
-
-python app.py
-
-
-📋 Requirements
-Python >= 3.6
-
-All dependencies are listed in requirements.txt
-
 
